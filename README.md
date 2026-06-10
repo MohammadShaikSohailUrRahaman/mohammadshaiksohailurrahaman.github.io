@@ -3,7 +3,7 @@
 
 I am a passionate engineer-in-training focused on the intersection of hardware logic, digital signal processing, and software efficiency. My academic background in **Electronics and Communication Engineering** fuels my current work as a **Research Intern at TiH, IIT Tirupati**, where I focus on advanced radar systems and digital signal processing.
 
-Alongside engineering, I am an enthusiastic educator. Working as a **Part-Time Teacher**, I enjoy breaking down complex concepts, mentoring students, and sharing my passion for learning and technology. I believe that teaching is the ultimate way to master a subject, as it requires translating complex theories into simple, logical ideas.
+I am deeply dedicated to solving complex problems using **Python**, implementing hardware-software workflows, and building real-world applications for detection and tracking.
 
 ---
 
@@ -11,7 +11,7 @@ Alongside engineering, I am an enthusiastic educator. Working as a **Part-Time T
 * **Systems & Hardware:** Radar Systems Design, Object Detection, Digital Signal Processing (DSP), Waveform Design
 * **Tools & Frameworks:** GNU Radio, Software Defined Radio (SDR), Git/GitHub
 * **Languages:** Python, C
-* **Core Competencies:** Data Structures, Algorithmic Problem Solving, Technical Mentoring
+* **Core Competencies:** Data Structures, Algorithmic Problem Solving, RF Signal Acquisition
 
 ---
 
@@ -23,11 +23,11 @@ Alongside engineering, I am an enthusiastic educator. Working as a **Part-Time T
 * Developed custom processing blocks and automated simulation workflows using **Python** within the **GNU Radio** framework.
 * Analyzed physical waveforms, filtered out signal noise, and worked on processing signal chains to evaluate target detection accuracy.
 
-#### 👨‍🏫 Part-Time Educator & Technical Instructor
-*Academic Mentorship & Teaching*
-* Conducted structured learning sessions to simplify complex engineering, mathematical, and analytical concepts for students.
-* Built customized explanation frameworks and learning materials to help students develop strong logical and problem-solving mentalities.
-* Enhanced personal core communication, leadership, and public presentation skills through active classroom management.
+#### 📻 SDR Signal Acquisition & Processing
+*Hardware & RF Engineering Project*
+* Configured and deployed Software Defined Radio (SDR) hardware rigs to successfully capture, digitize, and monitor real-time RF signals.
+* Developed customized signal acquisition scripts to capture specific frequency bands and log raw I/Q data for processing.
+* Built signal filtering pipelines to isolate targeted frequencies and minimize background noise interference.
 
 #### 📦 Airport Baggage Handling System Simulation
 *Data Structures & Algorithms Project*
@@ -43,5 +43,4 @@ Alongside engineering, I am an enthusiastic educator. Working as a **Part-Time T
 
 ### 📬 Let's Connect!
 * **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/mohammad-shaik-sohail-ur-rahaman-5a296b310/)
-* **Email:** [Put your Email Address Here]
-* 
+* **Email:** [sohailrahaman424@gmail.com]
