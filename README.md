@@ -11,8 +11,7 @@ Alongside engineering, I am an enthusiastic educator. Working as a **Part-Time T
 * **Systems & Hardware:** Radar Systems Design, Object Detection, Digital Signal Processing (DSP), Waveform Design
 * **Tools & Frameworks:** GNU Radio, Software Defined Radio (SDR), Git/GitHub
 * **Languages:** Python, C
-* **Data Structures:** Stacks, Queues, Tree-based Dynamic Programming, and Prefix Sums
-* **Specializations:** Technical Instruction & Mentoring, Networking Architecture (DNS), Cryptographic Procedures
+* **Core Competencies:** Data Structures, Algorithmic Problem Solving, Technical Mentoring
 
 ---
 
@@ -37,7 +36,7 @@ Alongside engineering, I am an enthusiastic educator. Working as a **Part-Time T
 
 #### 💻 Algorithmic Problem Solving
 *Competitive Programming*
-* Actively solving complex algorithmic problems involving non-overlapping subarrays, prefix sums, and advanced tree-based dynamic programming.
+* Actively solving algorithmic problems using Python to practice data structures and logical reasoning.
 * Focused on writing clean, well-commented, and highly optimized Python code with minimal time and space complexity.
 
 ---
@@ -45,3 +44,4 @@ Alongside engineering, I am an enthusiastic educator. Working as a **Part-Time T
 ### 📬 Let's Connect!
 * **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/mohammad-shaik-sohail-ur-rahaman-5a296b310/)
 * **Email:** [Put your Email Address Here]
+* 
