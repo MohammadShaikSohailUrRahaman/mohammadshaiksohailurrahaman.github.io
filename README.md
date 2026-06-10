@@ -24,5 +24,5 @@ Alongside hardware systems, I am deeply dedicated to **Competitive Programming**
 ---
 
 ### 📬 Let's Connect!
-* **LinkedIn:** [Put your LinkedIn Profile Link Here]
-* **Email:** [Put your Email Address Here]
+* **LinkedIn:** [https://www.linkedin.com/in/mohammad-shaik-sohail-ur-rahaman-5a296b310/]
+* **Email:** [sohailrahaman424@gmail.com]
