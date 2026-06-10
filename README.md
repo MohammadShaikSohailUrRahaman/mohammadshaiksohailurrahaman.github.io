@@ -61,14 +61,3 @@ I am deeply dedicated to solving complex problems using **Python**, implementing
 *Competitive Programming*
 * 🧠 **Logical Reasoning:** Actively solving algorithmic problems using Python to practice data structures and logical reasoning.
 * ⚡ **Code Optimization:** Focused on writing clean, well-commented, and highly optimized Python code with minimal time and space complexity.
-
----
-
-## 📊 GitHub Analytics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" alt="Sohail's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&theme=gotham" alt="Top Languages" height="150" />
-</p>
-
-*Note: Make sure to replace `YOUR_GITHUB_USERNAME_HERE` in the links above with your actual GitHub username to activate your real-time code stats card!*
